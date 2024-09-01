@@ -1,0 +1,63 @@
+﻿@model EShop.Domain.Domain.Team
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Team</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.City)
+        </dd>
+    </dl>
+</div>
+
+
+<div>
+    <h4>Players</h4>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>PlayerId</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.PlayerOnTeams != null && Model.PlayerOnTeams.Any())
+            {
+                @foreach (var playerOnTeam in Model.PlayerOnTeams)
+                {
+                    <tr>
+                        <td>@playerOnTeam.PlayerId</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4">No players assigned to this team.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a> |
+    <a asp-route-id="@Model?.Id" class="btn btn-primary" asp-action="AddPlayerToTeam">Add Player To Team</a>
+</div>
