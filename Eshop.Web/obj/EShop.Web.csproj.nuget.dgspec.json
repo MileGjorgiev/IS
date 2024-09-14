@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Web\\EShop.Web.csproj": {}
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Web\\EShop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj",
         "projectName": "EShop.Domain",
-        "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
-        "packagesPath": "C:\\Users\\Mile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,11 +47,15 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
             }
           },
           "imports": [
@@ -71,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj",
         "projectName": "EShop.Repository",
-        "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj",
-        "packagesPath": "C:\\Users\\Mile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,15 +96,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
+              "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj"
               }
             }
           }
@@ -123,15 +125,19 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
             }
           },
           "imports": [
@@ -150,21 +156,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Service\\EShop.Service.csproj": {
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\EShop.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\EShop.Service.csproj",
         "projectName": "EShop.Service",
-        "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
-        "packagesPath": "C:\\Users\\Mile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Service\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\EShop.Service.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,18 +178,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
+              "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj"
               },
-              "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
-                "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
+              "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj"
               }
             }
           }
@@ -203,17 +208,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
             "MailKit": {
               "target": "Package",
-              "version": "[4.5.0, )"
+              "version": "[4.7.1.1, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             },
             "MimeKit": {
               "target": "Package",
-              "version": "[4.5.0, )"
+              "version": "[4.7.1, )"
             }
           },
           "imports": [
@@ -232,21 +241,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Web\\EShop.Web.csproj": {
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Web\\EShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Web\\EShop.Web.csproj",
         "projectName": "EShop.Web",
-        "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
-        "packagesPath": "C:\\Users\\Mile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Web\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Web\\EShop.Web.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -254,21 +263,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
+              "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj"
               },
-              "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
-                "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
+              "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Repository\\EShop.Repository.csproj"
               },
-              "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Service\\EShop.Service.csproj": {
-                "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\integrated_systems\\EShop.Service\\EShop.Service.csproj"
+              "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\EShop.Service.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\EShop.Service.csproj"
               }
             }
           }
@@ -290,27 +298,27 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -320,11 +328,15 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.5, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
             },
             "Stripe.net": {
               "target": "Package",
-              "version": "[44.2.0, )"
+              "version": "[45.13.0, )"
             }
           },
           "imports": [
@@ -346,7 +358,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

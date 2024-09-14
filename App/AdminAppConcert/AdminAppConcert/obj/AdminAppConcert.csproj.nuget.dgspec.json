@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj": {}
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj": {
+    "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj",
         "projectName": "AdminAppConcert",
-        "projectPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj",
-        "packagesPath": "C:\\Users\\Mile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mile\\Downloads\\ProektIs\\ProektIs\\SportEvents\\AdminAppConcert\\AdminAppConcert\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\AdminAppConcert.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

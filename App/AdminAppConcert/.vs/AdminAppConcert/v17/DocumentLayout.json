@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF38439-DC18-466D-805F-78D9BA718F4A}|AdminAppConcert\\AdminAppConcert.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\app\\adminappconcert\\adminappconcert\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF38439-DC18-466D-805F-78D9BA718F4A}|AdminAppConcert\\AdminAppConcert.csproj|solutionrelative:adminappconcert\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AdminAppConcert\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\App\\AdminAppConcert\\AdminAppConcert\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AdminAppConcert\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:41:51.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -13,6 +13,10 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
+var connectionStringBooks = builder.Configuration.GetConnectionString("OnlineLibraryDBConnectionString") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(connectionStringBooks));
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<EShopApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
@@ -30,6 +34,7 @@ builder.Services.AddTransient<IPlayerService, PlayerService>();
 builder.Services.AddTransient<ISportsEventsService, SportsEventsService>();
 builder.Services.AddTransient<IMatchScheduleService, MatchScheduleService>();
 builder.Services.AddTransient<ITeamService, TeamService>();
+builder.Services.AddTransient<IBookService, BookService>();
 
 
 
