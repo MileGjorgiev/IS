@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\sportsevents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\sportsevents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\domain\\matchschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\matchschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\domain\\addplayertoteamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\addplayertoteamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\domain\\matchschedulesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\matchschedulesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\domain\\sportsevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\sportsevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\sportsevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\sportsevents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.service\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.service\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\domain\\sportsevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domain\\sportsevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\pc\\desktop\\novvgitis\\is\\eshop.domain\\eshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{03C1F39D-48A3-41EA-B173-89B53EC0593E}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\eshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -50,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,6 +91,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MatchSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\MatchSchedule.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\MatchSchedule.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\MatchSchedule.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\MatchSchedule.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:15:41.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPlayerToTeamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\AddPlayerToTeamViewModel.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\AddPlayerToTeamViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\AddPlayerToTeamViewModel.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\AddPlayerToTeamViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:15:26.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchSchedulesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\MatchSchedulesViewModel.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\MatchSchedulesViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\MatchSchedulesViewModel.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\MatchSchedulesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:15:16.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\SportsEvents\\Details.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\SportsEvents\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\SportsEvents\\Details.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\SportsEvents\\Details.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T21:14:25.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T21:08:12.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Eshop.Web\\Views\\Shared\\_Layout.cshtml",
@@ -70,25 +163,24 @@
               "RelativeToolTip": "Eshop.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T19:41:43.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:41:43.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\SportsEvents\\Index.cshtml",
               "RelativeDocumentMoniker": "Eshop.Web\\Views\\SportsEvents\\Index.cshtml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\SportsEvents\\Index.cshtml",
               "RelativeToolTip": "Eshop.Web\\Views\\SportsEvents\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-14T19:40:05.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Eshop.Web\\Views\\Books\\Index.cshtml",
@@ -96,25 +188,24 @@
               "RelativeToolTip": "Eshop.Web\\Views\\Books\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T19:35:02.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:35:02.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Eshop.Web\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Eshop.Web\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T19:31:00.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Program.cs",
               "RelativeDocumentMoniker": "Eshop.Web\\Program.cs",
@@ -122,38 +213,24 @@
               "RelativeToolTip": "Eshop.Web\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAC1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:27:18.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:27:18.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\Implementation\\BookService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Implementation\\BookService.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\Implementation\\BookService.cs",
               "RelativeToolTip": "EShop.Service\\Implementation\\BookService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAQAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T19:19:36.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\Interface\\IBookService.cs",
-              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IBookService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\Interface\\IBookService.cs",
-              "RelativeToolTip": "EShop.Service\\Interface\\IBookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:18:11.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "SportsEvents.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\SportsEvents.cs",
               "RelativeDocumentMoniker": "EShop.Domain\\Domain\\SportsEvents.cs",
@@ -166,20 +243,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EShop.Domain",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Domain\\Ticket.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\Domain\\Ticket.cs",
+              "RelativeToolTip": "EShop.Domain\\Domain\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:09:38.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eshop.Web\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "Eshop.Web\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T20:58:49.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Service\\Interface\\IBookService.cs",
+              "RelativeToolTip": "EShop.Service\\Interface\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:18:11.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EShop.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj",
               "RelativeDocumentMoniker": "EShop.Domain\\EShop.Domain.csproj",
               "ToolTip": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\EShop.Domain\\EShop.Domain.csproj",
               "RelativeToolTip": "EShop.Domain\\EShop.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-14T19:16:10.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T19:16:10.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\novvGitIs\\IS\\Eshop.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Eshop.Web\\appsettings.json",
@@ -187,8 +301,7 @@
               "RelativeToolTip": "Eshop.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-14T18:52:28.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T18:52:28.862Z"
             }
           ]
         }

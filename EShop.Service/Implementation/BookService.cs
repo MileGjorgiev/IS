@@ -33,7 +33,7 @@ namespace EShop.Service.Implementation
                     var kniga = new SportsEvents
                     {
                         Id = book.Id,
-                        Name = book.Title
+                        Name ="Book name: " + book.Title
                     };
                     localBooks.Add(kniga);
                 }
